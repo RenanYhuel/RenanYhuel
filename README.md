@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renanyhuel" alt="renanyhuel" /></a> </p>
 
-- 🔭 I’m currently working on **an entire web dev project manager app**
+- 🔭 I’m currently working on **a project manager web app**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RenanYhuel](https://github.com/RenanYhuel)
 
