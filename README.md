@@ -134,7 +134,7 @@
   </a>
 </p>
 
-
+<br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renanyhuel&show_icons=true&locale=en&layout=compact" alt="renanyhuel" /></p>
 
