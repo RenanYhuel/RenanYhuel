@@ -105,9 +105,6 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/>
   </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/>
-  </a>
   <a href="https://www.codepen.io/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=codepen" alt="codepen" width="40" height="40"/>
   </a>
