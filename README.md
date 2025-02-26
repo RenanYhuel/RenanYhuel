@@ -18,63 +18,63 @@
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,ts,bash,cpp,php" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,ts,bash,cpp,php"/>
   </a>
 </p>
 
 <h3 align="left">Frontend Frameworks and Libraries:</h3>
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,babel,electron,fastapi,nodejs" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,babel,electron,fastapi,nodejs"/>
   </a>
 </p>
 
 <h3 align="left">Backend Frameworks:</h3>
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=express,django,flask,nestjs,discordjs" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=express,django,flask,nestjs,discordjs"/>
   </a>
 </p>
 
 <h3 align="left">Databases:</h3>
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres"/>
   </a>
 </p>
 
 <h3 align="left">Softwares:</h3>
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=anaconda,arduino,codepen,discord,github,gmail" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=anaconda,arduino,codepen,discord,github,gmail"/>
   </a>
 </p>
 
 <h3 align="left">DevOps and Cloud:</h3>
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=docker,aws,gcp,cloudflare" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=docker,aws,gcp,cloudflare"/>
   </a>
 </p>
 
 <h3 align="left">Code and API Management Tools:</h3>
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git,postman" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=git,postman"/>
   </a>
 </p>
 
 <h3 align="left">Data Science and Machine Learning:</h3>
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch"/>
   </a>
 </p>
 
 <h3 align="left">UI/UX Design and Prototyping:</h3>
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=figma,blender" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=figma,blender"/>
   </a>
 </p>
 
