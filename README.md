@@ -18,7 +18,7 @@
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,ts,bash,cpp,php"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,bash,cpp"/>
   </a>
 </p>
 
