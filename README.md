@@ -20,6 +20,9 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
   </a>
+  <a href="https://www.w3.org/Style/CSS" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" alt="css" width="40" height="40"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
   </a>
@@ -28,6 +31,12 @@
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=ts" width="40" height="40"/>
+  </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=bash" width="40" height="40"/>
+  </a>
+  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/>
   </a>
 </p>
 
@@ -45,6 +54,9 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
   </a>
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=babel" alt="babeljs" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Backend Frameworks:</h3>
@@ -60,6 +72,9 @@
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/>
+  </a>
+  <a href="https://discord.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=discordjs" alt="discordjs" width="40" height="40"/>
   </a>
 </p>
 
@@ -82,6 +97,25 @@
   </a>
 </p>
 
+<h3 align="left">Softwares:</h3>
+<p align="left">
+  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/>
+  </a>
+  <a href="https://www.codepen.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=codepen" alt="codepen" width="40" height="40"/>
+  </a>
+  <a href="https://discord.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="40" height="40"/>
+  </a>
+</p>
+
 <h3 align="left">DevOps and Cloud:</h3>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -92,6 +126,9 @@
   </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/>
+  </a>
+  <a href="https://www.cloudflare.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cloudflare" alt="cloudflare" width="40" height="40"/>
   </a>
 </p>
 
