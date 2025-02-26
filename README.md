@@ -38,6 +38,9 @@
   <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40"/>
   </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=php" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Frontend Frameworks and Libraries:</h3>
@@ -51,11 +54,23 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/>
   </a>
+  <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" width="40" height="40"/>
+  </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
   </a>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=babel" alt="babeljs" width="40" height="40"/>
+  </a>
+  <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
   </a>
 </p>
 
@@ -110,6 +125,12 @@
   </a>
   <a href="https://discord.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=discord" alt="discord" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/>
+  </a>
+  <a href="https://gmail.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" width="40" height="40"/>
   </a>
 </p>
 
