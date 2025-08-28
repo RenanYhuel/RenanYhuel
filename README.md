@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renanyhuel" alt="renanyhuel" /></a> </p>
 
-- 🔭 I'm currently working on **DepenScoop**, a tool that **analyzes** and **visualizes file dependencie**s and their **relationships** within a GitHub repository. It helps users track how files interact with each other and gain insights into the structure of their projects.
+- 🔭 I'm currently working on Brylo CLI, an open-source terminal tool that helps developers install and run interactive modules and packs. Think of it as a playground to automate and customize your project setup.
 
 - 👨‍💻 All of my projects are available at [https://github.com/RenanYhuel](https://github.com/RenanYhuel)
 
