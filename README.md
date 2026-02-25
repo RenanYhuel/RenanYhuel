@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renanyhuel" alt="renanyhuel" /></a> </p>
 
-- 🔭 I'm currently working on Brylo CLI, an open-source terminal tool that helps developers install and run interactive modules and packs. Think of it as a playground to automate and customize your project setup.
+- 🔭 TypeScript/web developer, I am currently learning Rust to master systems programming (ownership, error handling, performance). I intentionally avoided using AI so I could build the logic myself and understand each concept thoroughly.
 
 - 👨‍💻 All of my projects are available at [https://github.com/RenanYhuel](https://github.com/RenanYhuel)
 
