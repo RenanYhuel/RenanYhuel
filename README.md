@@ -1,88 +1,66 @@
-<h1 align="center">Hi 👋, I'm Renan YHUEL</h1>
-<h3 align="center">A passionate fullstack developer of 15 years old from France</h3>
+<h1 align="center">Renan YHUEL</h1>
+<h3 align="center">Full Stack Developer & Systems Enthusiast from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=renanyhuel&label=Profile%20views&color=0e75b6&style=flat" alt="renanyhuel" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renanyhuel" alt="renanyhuel" /></a> </p>
-
-- 🔭 TypeScript/web developer, I am currently learning Rust to master systems programming (ownership, error handling, performance). I intentionally avoided using AI so I could build the logic myself and understand each concept thoroughly.
-
-- 👨‍💻 All of my projects are available at [https://github.com/RenanYhuel](https://github.com/RenanYhuel)
-
-- 📫 How to reach me **renan.yhuel@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=renanyhuel&label=Profile%20views&color=FFE66D&style=flat-square" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,bash,cpp,rust"/>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=renanyhuel&theme=flat&no-frame=false&margin-w=4" alt="GitHub Trophies" />
   </a>
 </p>
 
-<h3 align="left">Frontend Frameworks and Libraries:</h3>
-<p align="left">
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,babel,electron,fastapi,nodejs"/>
-  </a>
+<hr />
+
+<p>
+  <strong>Full Stack Developer</strong> focusing on scalable TypeScript/Next.js web architectures, real-time distributed backends, and low-level performance engineering with <strong>Rust</strong> (memory safety, ownership model, concurrency, systems internals).
 </p>
 
-<h3 align="left">Backend Frameworks:</h3>
+<ul>
+  <li><strong>Portfolio & Projects:</strong> <a href="https://github.com/RenanYhuel">github.com/RenanYhuel</a></li>
+  <li><strong>Contact:</strong> <a href="mailto:renan.yhuel@gmail.com">renan.yhuel@gmail.com</a></li>
+</ul>
+
+<hr />
+
+<h3 align="left">Languages</h3>
 <p align="left">
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=express,django,flask,nestjs,discordjs"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,rust,py,cpp,bash,php" alt="Languages" />
 </p>
 
-<h3 align="left">Databases:</h3>
+<h3 align="left">Frontend & UI</h3>
 <p align="left">
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vue,nuxtjs,electron" alt="Frontend" />
 </p>
 
-<h3 align="left">Softwares:</h3>
+<h3 align="left">Backend & APIs</h3>
 <p align="left">
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=anaconda,arduino,codepen,discord,github,gmail"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,django,flask,discordjs" alt="Backend" />
 </p>
 
-<h3 align="left">DevOps and Cloud:</h3>
+<h3 align="left">Databases & Storage</h3>
 <p align="left">
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=docker,aws,gcp,cloudflare"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" alt="Databases" />
 </p>
 
-<h3 align="left">Code and API Management Tools:</h3>
+<h3 align="left">DevOps & Cloud Infrastructure</h3>
 <p align="left">
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git,postman"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,cloudflare" alt="DevOps & Cloud" />
 </p>
 
-<h3 align="left">Data Science and Machine Learning:</h3>
+<h3 align="left">Tools & Ecosystem</h3>
 <p align="left">
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,blender,discord" alt="Tools" />
 </p>
 
-<h3 align="left">UI/UX Design and Prototyping:</h3>
-<p align="left">
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=figma,blender"/>
-  </a>
+<hr />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renanyhuel&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=renanyhuel&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renanyhuel&show_icons=true&locale=en&layout=compact" alt="renanyhuel" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renanyhuel&show_icons=true&locale=en" alt="renanyhuel" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RenanYhuel" alt="renanyhuel" /></p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RenanYhuel" alt="GitHub Streak" />
+</p>
