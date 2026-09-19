@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=renanyhuel&theme=flat&no-frame=false&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=renanyhuel&theme=flat&no-frame=false&margin-w=4" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -55,11 +55,6 @@
 </p>
 
 <hr />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renanyhuel&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=renanyhuel&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RenanYhuel" alt="GitHub Streak" />
